@@ -34,7 +34,7 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               {
-                "glob": "**/*",
+                "glob": "**/*", 
                 "input": "public"
               }
             ],

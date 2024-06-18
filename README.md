@@ -26,4 +26,5 @@ npx new angular-basico
 npm start
 
 #### Criando components
-ng c g components/component01 --skip-tests=true
+ng g c components/component01 --skip-tests=true
+ng g c components/component03
