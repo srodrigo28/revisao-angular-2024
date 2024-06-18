@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class Component02Component {
 
+  salve(){
+    alert('Hello Angular')
+  }
 }

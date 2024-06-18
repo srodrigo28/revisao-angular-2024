@@ -11,6 +11,7 @@ ng -version
 
 * link
 https://v17.angular.io/cli
+https://www.youtube.com/watch?v=_26ucwsfQEU
 
 #### Criando projeto
 * aqui voce vai habilitar o standalone nesse caso irá que fazer as importações quando chamar um components
