@@ -1,0 +1,11 @@
+<h2>ngStyle <button (click)="alterar()">Alterar</button></h2>
+
+<h3 [ngStyle]="{'color': condicao ? 'green' : 'red' }">Aprendendo a diretiva ngStyle</h3>
+
+<ul>
+    <li *ngFor=" let item of lista" 
+        [ngStyle]="{'color': item =='Aprovado' ? 'green' : 'red' }"
+    >
+    {{item}}
+</li>
+</ul>
